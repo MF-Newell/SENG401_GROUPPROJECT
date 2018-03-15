@@ -1,0 +1,11 @@
+C:\Users\bosto\source\repos\Call It Local\Messages\bin\Debug\Messages.dll
+C:\Users\bosto\source\repos\Call It Local\Messages\bin\Debug\Messages.pdb
+C:\Users\bosto\source\repos\Call It Local\Messages\bin\Debug\MySql.Data.dll
+C:\Users\bosto\source\repos\Call It Local\Messages\bin\Debug\NServiceBus.Core.dll
+C:\Users\bosto\source\repos\Call It Local\Messages\bin\Debug\MySql.Data.xml
+C:\Users\bosto\source\repos\Call It Local\Messages\bin\Debug\NServiceBus.Core.pdb
+C:\Users\bosto\source\repos\Call It Local\Messages\bin\Debug\NServiceBus.Core.xml
+C:\Users\bosto\source\repos\Call It Local\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+C:\Users\bosto\source\repos\Call It Local\Messages\obj\Debug\Messages.csproj.CoreCompileInputs.cache
+C:\Users\bosto\source\repos\Call It Local\Messages\obj\Debug\Messages.dll
+C:\Users\bosto\source\repos\Call It Local\Messages\obj\Debug\Messages.pdb
